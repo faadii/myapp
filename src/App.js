@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hello World <s>fahad<s> fahad
+      Hello World from Fahad
     </div>
   );
 }
